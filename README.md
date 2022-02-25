@@ -1,24 +1,11 @@
 # my-blog
 
-## Project setup
-```
-npm install
-```
+# There are too many files in ‘node_modules’ folder, so I didn't upload them 
+# Vue, Vuex, VueRouter, ElementUI, nanoid are being install and imported
+
 
 ### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
