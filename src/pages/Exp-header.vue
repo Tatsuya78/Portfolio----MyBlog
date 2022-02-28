@@ -4,7 +4,6 @@
       <div>
         <div class="header-image about">
           <!-- <img src="../assets/about-profile.jpeg" alt="" /> -->
-          <!-- // 里面放星星 -->
         </div>
       </div>
     </header>
