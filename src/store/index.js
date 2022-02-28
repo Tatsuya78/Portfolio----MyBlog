@@ -7,8 +7,10 @@ import Vuex from 'vuex'
 Vue.use(Vuex)
 
 //准备actions对象——响应组件中用户的动作
+//create actions object to respond to the user's actions in the component
 const actions = {}
 //准备mutations对象——修改state中的数据
+//create mutations object to edit the data in state
 const mutations = {
 	CHECKTODO(state, value) {
 		state.todos.forEach((todo) => {
