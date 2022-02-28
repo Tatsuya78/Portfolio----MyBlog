@@ -1,4 +1,4 @@
-// 改文件专门用于创建整个应用的路由器
+// This file is dedicated to the creation of the entire application router
 // this file is mainly for creating a router for whole application
 
 import VueRouter from "vue-router";
